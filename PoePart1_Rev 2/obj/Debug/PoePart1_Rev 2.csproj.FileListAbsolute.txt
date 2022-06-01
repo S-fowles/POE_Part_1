@@ -1,0 +1,8 @@
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\bin\Debug\PoePart1_Rev 2.exe.config
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\bin\Debug\PoePart1_Rev 2.exe
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\bin\Debug\PoePart1_Rev 2.pdb
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\obj\Debug\PoePart1_Rev 2.csproj.AssemblyReference.cache
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\obj\Debug\PoePart1_Rev 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\obj\Debug\PoePart1_Rev 2.csproj.CoreCompileInputs.cache
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\obj\Debug\PoePart1_Rev 2.exe
+C:\Users\B1ohazard\Documents\C# Programs\PoePart1_Rev 2\PoePart1_Rev 2\obj\Debug\PoePart1_Rev 2.pdb
