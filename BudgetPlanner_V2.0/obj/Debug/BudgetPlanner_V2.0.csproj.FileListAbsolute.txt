@@ -1,0 +1,8 @@
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\bin\Debug\BudgetPlanner_V2.0.exe.config
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\bin\Debug\BudgetPlanner_V2.0.exe
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\bin\Debug\BudgetPlanner_V2.0.pdb
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\obj\Debug\BudgetPlanner_V2.0.csproj.AssemblyReference.cache
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\obj\Debug\BudgetPlanner_V2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\obj\Debug\BudgetPlanner_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\obj\Debug\BudgetPlanner_V2.0.exe
+C:\Users\B1ohazard\Documents\C# Programs\BudgetPlanner_V2.0\BudgetPlanner_V2.0\obj\Debug\BudgetPlanner_V2.0.pdb
